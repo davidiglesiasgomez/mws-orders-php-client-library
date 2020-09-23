@@ -1,5 +1,5 @@
 {
-  "name": "AustinMaddox/mws-orders-php-client-library",
+  "name": "davidiglesiasgomez/mws-orders-php-client-library",
   "description": "A repository for Amazon's Marketplace Web Service (Amazon MWS) Orders PHP Client Library because Amazon does not host their crap on GitHub like the rest of the world.",
   "keywords": [
     "Amazon",
@@ -17,14 +17,12 @@
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Austin Maddox",
-      "email": "austin@maddoxbox.com",
-      "homepage": "http://www.maddoxbox.com",
-      "role": "Project host"
+      "name": "David Iglesias",
+      "email": "david.iglesias@gmail.com"
     }
   ],
   "require": {
-    "php": ">=5.2.8"
+    "php": ">=5.6"
   },
   "require-dev": {
   },
